@@ -1,4 +1,7 @@
-JavaScript
-==========
+JavaScript Tryouts
+==================
 
-JavaScript
+The repository is the sandbox of experimentations
+-------------------------------------------------
+
+
